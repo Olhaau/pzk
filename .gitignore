@@ -7,6 +7,6 @@ attachments/
 journal/
 todo.md
 work/
-
+.stfolder/
 .*/
 !.git/
