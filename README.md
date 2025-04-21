@@ -1,2 +1,1 @@
-# pzk
-Personal Zettelkasten
+# New PKM
