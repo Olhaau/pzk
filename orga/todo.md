@@ -10,9 +10,12 @@ created: 2025-04-20
 
 ### Backlog
 
+- [ ] Büro streichen
+- [ ] git job for update
+- [ ] migrate obsidian
+
 ### TODO
 
-- [ ] Büro streichen
 
 
 ### DOING
@@ -20,6 +23,8 @@ created: 2025-04-20
 #### WAIT
 
 ### DONE
+
+- [x] syncthing phone to new pzk [[2025-04-21]]
 
 #### ARCHIVE
 

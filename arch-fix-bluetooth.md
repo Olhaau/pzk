@@ -30,7 +30,8 @@ modprobe btusb
 
 ### up
 
+[[arch]]
+
 ### down
 
 - https://unix.stackexchange.com/questions/700030/no-default-controller-available-bluetooth-arch-linux
-- 

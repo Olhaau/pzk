@@ -1,5 +1,6 @@
 ---
 created: {{format-date now '%Y-%m-%d'}}
+summary:
 ---
 
 # {{title}}

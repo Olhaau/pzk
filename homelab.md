@@ -19,3 +19,6 @@ created: 2025-04-21
 
 ### down
 
+1. [[proxmox]]
+
+
