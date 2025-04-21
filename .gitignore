@@ -1,8 +1,16 @@
+*
+
+!zettel/
+
+
 private/
 secrets/
 playground/
 attachments/
 .stfolder/
+.*/
 journal/
 todo.md
 work/
+
+!.git
