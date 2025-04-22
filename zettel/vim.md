@@ -6,11 +6,13 @@ created: 2025-04-21
 
 ## content
 
+- combinable with [[zk]]
+
 ## refs
 
 ### up
 
-[[zk]]
+[[cli]]
 
 ### down
 

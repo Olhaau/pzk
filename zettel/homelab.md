@@ -8,10 +8,17 @@ created: 2025-04-21
 
 ### services
 
+#### currently running
+
+- [[sv-hoarder]] 
 - nginx
 - pihole
 - ollama
 - openwebui
+- n8n
+- supabase
+
+#### considered
 
 ## refs
 

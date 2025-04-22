@@ -12,5 +12,7 @@ https://zk-org.github.io/zk/_images/screencast.svg
 
 ## up
 
+[[cli]]
+
 ## down
 
