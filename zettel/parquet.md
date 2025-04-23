@@ -1,14 +1,16 @@
 ---
 created: 2025-04-23
 summary:
-url: 
 ---
 
-# supabase-selfhosting
+# parquet
 
 ## content
 
+### Metadata
 
+- schema
+- group-level statistics
 
 ## refs
 

@@ -9,4 +9,5 @@ Personal Zettelkasten to organize my knowledge.
   - [[tech]]
     - [[coding]]
     - [[homelab]]
+- [[sources]]
 
