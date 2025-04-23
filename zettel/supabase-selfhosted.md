@@ -1,9 +1,10 @@
 ---
-created: 2025-04-22
+created: 2025-04-23
 summary:
+url: 
 ---
 
-# r
+# supabase-selfhosting
 
 ## content
 
@@ -13,8 +14,5 @@ summary:
 
 ### up
 
-[[coding]]
-
 ### down
 
-[[r-basics]]

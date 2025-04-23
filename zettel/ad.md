@@ -3,7 +3,8 @@ created: 2025-04-22
 summary:
 ---
 
-# r
+# ms active directory
+
 
 ## content
 
@@ -13,8 +14,7 @@ summary:
 
 ### up
 
-[[coding]]
+[[microsoft]]
 
 ### down
 
-[[r-basics]]

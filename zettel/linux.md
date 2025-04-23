@@ -13,5 +13,7 @@ summary:
 
 ### up
 
+[[operating-system|os]]
+
 ### down
 

@@ -10,7 +10,10 @@ created: 2025-04-21
 
 #### currently running
 
-- [[sv-hoarder]] 
+- [[hoarder]] 
+- ailab
+  - [[supabase-selfhosted]]
+  - [[n8n]]
 - nginx
 - pihole
 - ollama

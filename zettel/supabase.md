@@ -1,10 +1,9 @@
 ---
-created: 2025-04-22
+created: 2025-04-23
 summary:
 ---
 
-# ms active directory
-
+# supabase
 
 ## content
 
@@ -13,8 +12,6 @@ summary:
 ## refs
 
 ### up
-
-[[ms]]
 
 ### down
 
