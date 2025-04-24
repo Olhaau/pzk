@@ -10,10 +10,10 @@ note_type: task
 
 ### Backlog
 
-- [ ] Büro streichen
+- [ ] migrate obsidian
+- [ ] add [[ai-fabric]] to n8n workflows
 - [x] syncthing phone to new pzk [[20250521]]
 - [x] migrate hoarder and add openai [[20250522]]
-- [ ] git job for update
 
 ### DOING
 
@@ -21,14 +21,18 @@ note_type: task
 
 ### DONE
 
-- [ ] migrate obsidian
-- [ ] add [[ai-fabric]] to n8n workflows
+- [ ] git job for update
+- [ ] fix supabase, doc
+  - [ ] reset credentials 
 
 
 #### ARCHIVE
 
 ### TODO
 
-- [ ] fix supabase, doc
-- [ ] fix n8n
 - [ ] upgrade bookmark workflow
+- [ ] fix n8n
+- [ ] Büro streichen
+- [x] test bookmarking
+- [ ] news workflow m8n scraping, summarize, list links
+- [ ] upgrade isp

@@ -3,6 +3,8 @@ title: Sharing Web Pages - Zettel Notes
 source: https://www.zettelnotes.com/web-clipper/
 ---
 
+https://www.zettelnotes.com/web-clipper/
+
 up: [[sources]], [[zettelnotes]]
 
 # Sharing Web Pages
