@@ -34,7 +34,7 @@ Most systems, including Arrow, should work across a range of file sizes and part
 ### up
 
 - [[arrow]]
-- [[r-arrow]]
+- [[zettel/r-pkg-arrow]]
 
 ### down
 

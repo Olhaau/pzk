@@ -4,7 +4,7 @@ keywords: source
 ---
 
 url:: https://arrow.apache.org/cookbook/r/manipulating-data---tables.html
-up: [[sources]]
+up: [[sources]], [[zettel/r-pkg-arrow]]
 
 # Manipulating Data - Tables
 

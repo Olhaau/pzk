@@ -20,6 +20,7 @@ created: 2025-04-21
 - openwebui
 - n8n
 - supabase
+- [[zettel/hoarder]]
 
 #### considered
 

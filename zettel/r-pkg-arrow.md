@@ -1,5 +1,5 @@
 ---
-created: 2025-04-23
+created: 20250423
 summary:
 ---
 
@@ -7,11 +7,11 @@ summary:
 
 ## content
 
-
-
 ## refs
 
 ### up
 
 ### down
+
+- [[r-pkg-arrow-refs]]
 
