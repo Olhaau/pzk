@@ -1,7 +1,10 @@
 ---
-created: 2025-04-23
-summary:
+title: Self-Hosting with Docker | Supabase Docs
+keywords: source
 ---
+
+url:: https://supabase.com/docs/guides/self-hosting/docker
+up: [[sources]]
 
 # docs-supabase-self-host-with-docker
 

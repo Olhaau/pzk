@@ -1,3 +1,11 @@
+---
+title: 3 Reading and Writing Data - Multiple Files
+keywords: source
+---
+
+url:: https://arrow.apache.org/cookbook/r/reading-and-writing-data---multiple-files.html
+up: [[sources]]
+
 # Reading and Writing Data - Multiple Files
 
 ## Introduction

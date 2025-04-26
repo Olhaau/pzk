@@ -1,3 +1,11 @@
+---
+title: Posit Workbench Administrator Guide – Administration Guide
+keywords: source
+---
+
+url:: https://docs.posit.co/ide/server-pro/
+up: [[sources]]
+
 Posit Workbench allows users to:
 
 * Launch jobs into remote or local clusters using Workbench Jobs.
@@ -12,7 +20,7 @@ Posit Workbench is a secure and scalable developer platform for data science in 
 
 1. [RStudio Pro](https://docs.posit.co/ide/server-pro/user/rstudio-pro/getting-started/)
 2. [Positron Pro](https://docs.posit.co/ide/server-pro/user/positron/getting-started/)
-3. [VS Code](https://code.visualstudio.com/)
+3. [VS Code](https://code.visualstudio.com)
 4. [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/)
 5. [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/latest/)
 

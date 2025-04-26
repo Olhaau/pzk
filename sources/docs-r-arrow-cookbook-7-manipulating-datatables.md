@@ -1,9 +1,10 @@
 ---
 title: 7 Manipulating Data - Tables
-source: https://arrow.apache.org/cookbook/r/manipulating-data---tables.html
+keywords: source
 ---
 
-[[sources]]
+url:: https://arrow.apache.org/cookbook/r/manipulating-data---tables.html
+up: [[sources]]
 
 # Manipulating Data - Tables
 
