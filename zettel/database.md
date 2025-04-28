@@ -17,3 +17,4 @@ summary:
 
 - [[supabase]]
 - [[postgresql]]
+- [[duckdb]]

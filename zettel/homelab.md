@@ -1,8 +1,11 @@
 ---
 created: 2025-04-21
+keywords: moc
 ---
 
 # homelab
+
+#moc, #zettel
 
 ## content
 

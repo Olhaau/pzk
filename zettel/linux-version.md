@@ -4,6 +4,8 @@ ___
 
 # linux-version
 
+#zettel
+
 ## content
 
 Show Linux Version:

@@ -63,6 +63,8 @@ ds %>%
 
 ### up
 
+- [[/zettel/r-pkg-arrow]]
+
 ### down
 
 * [[docs-r-arrow-multifile-data]]

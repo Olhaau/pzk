@@ -2,6 +2,11 @@
 
 Personal Zettelkasten to organize my knowledge.
 
+- #moc
+- #folder
+  - #source
+  - #zettel
+
 ## down
 
 - [[tasks]]

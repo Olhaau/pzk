@@ -13,5 +13,7 @@ summary:
 
 ### up
 
+- [[homelab]]
+
 ### down
 

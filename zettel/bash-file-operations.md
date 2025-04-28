@@ -1,4 +1,4 @@
----
+Documents---
 created: 20250426
 summary:
 ---
@@ -29,9 +29,23 @@ for file in *; do
 done
 ```
 
+### more
+
+```bash
+cp -r
+mv
+find
+# ...
+```
+
 ## refs
 
 ### up
+
+- [[linux]]
+- [[bash]]
+
+
 
 ### down
 

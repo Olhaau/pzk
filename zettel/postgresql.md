@@ -13,5 +13,8 @@ summary:
 
 ### up
 
+- [[database]]
+- [[sql]]
+
 ### down
 
