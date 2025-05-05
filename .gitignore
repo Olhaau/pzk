@@ -1,11 +1,13 @@
 !zettel/
+sources/private/
+lab/
 private/
 secrets/
 playground/
 attachments/
 .stfolder/
 journal/
-todo.md
+tasks.md
 work/
 arbeit/
 .stfolder/

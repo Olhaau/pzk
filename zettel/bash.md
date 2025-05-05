@@ -7,6 +7,8 @@ ___
 
 ## content
 
+- `pwd` print currenct working directory
+
 ## refs
 
 ### up

@@ -13,7 +13,6 @@ Personal Zettelkasten to organize my knowledge.
 - [[zettel]]
   - [[tech]]
     - [[coding]]
-      - [[data-efficiency-in-r]]
     - [[homelab]]
 - [[sources]]
 
