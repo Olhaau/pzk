@@ -3,7 +3,7 @@ created: 20250504
 summary:
 ___
 
-# r-pkg
+# r-packages
 
 #zettel
 

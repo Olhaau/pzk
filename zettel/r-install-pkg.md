@@ -18,9 +18,7 @@ summary:
 ### show pkgs
 
 - `installed.packages()`
-- `available.packages()`
-
-
+- `available.packages()` list available Packages in available repos
 
 ### only new pkg from specific sources
 
