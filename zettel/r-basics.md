@@ -5,13 +5,10 @@ summary:
 
 # r-basics
 
-## content
-
-
-
 ## refs
 
 ### up
 
 ### down
 
+## content

@@ -1,7 +1,9 @@
 !zettel/
-sources/private/
+#sources/private/
 lab/
+dev/
 private/
+zettel/work/
 secrets/
 playground/
 attachments/
@@ -12,4 +14,5 @@ work/
 arbeit/
 .stfolder/
 .*/
+.*/private/
 !.git/
