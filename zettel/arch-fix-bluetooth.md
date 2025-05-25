@@ -7,23 +7,47 @@ url: https://unix.stackexchange.com/questions/700030/no-default-controller-avail
 
 ## content
 
-### error
+### error: no def ctrl
 
 ```bash
 No default controller available Bluetooth
 ```
 
-### check
+#### check
 
 ```bash
 sudo lsmod | grep blue
 ```
 
-### fix
+#### fix
 
 ```bash
 rmmod btusb
 modprobe btusb
+```
+
+short
+
+```bash
+sudo rmmod btusb && sudo modprobe btusb
+```
+
+### error: io
+
+```bash
+Failed to connect: org.bluez.Error.Failed Input/output error
+```
+
+#### check
+
+```bash
+rfkill list
+```
+
+#### fix
+
+```bash
+rfkill list
 ```
 
 ## refs
