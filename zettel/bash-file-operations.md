@@ -31,7 +31,6 @@ done
 
 ```bash
 find /path/to/your/directory -type f -name "*.dta"
-
 ```
 
 ### more
